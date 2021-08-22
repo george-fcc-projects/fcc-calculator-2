@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/get-the-box.iml" filepath="$PROJECT_DIR$/.idea/get-the-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fcc-calculator-2.iml" filepath="$PROJECT_DIR$/.idea/fcc-calculator-2.iml" />
     </modules>
   </component>
 </project>
